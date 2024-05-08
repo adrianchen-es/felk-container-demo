@@ -57,6 +57,7 @@ services:
           "  - name: fleet\n"\
           "    dns:\n"\
           "      - fleet\n"\
+          "      - fleet01\n"\
           "      - localhost\n"\
           "    ip:\n"\
           "      - 127.0.0.1\n"\
