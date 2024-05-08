@@ -3,8 +3,6 @@ Docker Compose setup for a demo Elastic Stack with Fleet
 
 :warning: This is not an Elastic created, sponsored, or maintained project. Elastic is not responsible for this projects design or implementation.
 
-[![elastic-container.png](https://i.postimg.cc/J7TpsqKJ/elastic-container.png)](https://postimg.cc/NLH6VR3f)
-
 ## Steps
 
 1. `Git clone` this repo
