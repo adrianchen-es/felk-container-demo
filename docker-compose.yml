@@ -100,7 +100,7 @@ services:
       - TAKE_FILE_OWNERSHIP
       - EPR_ADDRESS=0.0.0.0:443
       - EPR_TLS_KEY=/etc/ssl/certs/epr01/epr01.key
-      - EPR_TLS_CERT=/etc/ssl/certs/epr01/epr01.key
+      - EPR_TLS_CERT=/etc/ssl/certs/epr01/epr01.crt
 
     healthcheck:
       test:
